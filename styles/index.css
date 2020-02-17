@@ -1,9 +1,36 @@
+nav {
+    width: 320px; 
+    border: 0px; 
+    padding-top: 3px;
+    padding-bottom:3px; 
+    padding-left:0px;
+    margin:0; 
+    background-color:#EDDEA4;
+    line-height: 25px;
+}
+a {color: black;
+}
 .body-text {
     font-family:lato;
 }
 .website-navigation {
     font-size: 15px;
+    list-style-type: none;
 }
 img {
     width:150px; 
+}
+
+h2 {
+    border-top: 1px solid grey;
+}
+.Product-specialist-title,.Service-Desk-title,.Heinrich-Böll-title, 
+.Czech-Helsinki-title, .Wall-Street-English-title {
+    font-weight:bold;
+    padding-bottom: 5px;
+}
+
+.Beetroot-title,.Lund-university-title,.University-Edinburgh-title,.University-Bologna-title {
+    font-weight:bold; 
+    padding-bottom: 5px; 
 }
